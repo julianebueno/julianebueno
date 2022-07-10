@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @julianebueno
+- 👀 I’m interested in knowing a little a bit of everything and then getting expert in some 
+- 🌱 I’m currently learning System Analysis and Development (Python, Java, Javascript, HTML5)
+- 💞️ I’m looking to collaborate on growing knowledge
