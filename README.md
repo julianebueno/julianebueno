@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2>Hello World, I’m @julianebueno</h2>
 
-<!--
-**julianebueno/julianebueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block">
+<img height="180em" width="440" src= "https://github-readme-stats.vercel.app/api?username=julianebueno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=20&hide_border=true"/>
 
-Here are some ideas to get you started:
+<!--<img height="180em" width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianebueno&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
