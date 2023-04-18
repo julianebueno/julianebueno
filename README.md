@@ -1,8 +1,10 @@
 ## Hello World, I’m @julianebueno
 
 <div>
-<img height="150em" src= "https://github-readme-stats.vercel.app/api?username=julianebueno&theme=tokyonight&include_all_commits=true&count_private=true&line_height=20&hide_border=true&show_icons=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianebueno&theme=tokyonight&hide_border=true&layout=compact"/>
+<img height="150em" 
+     src="https://github-readme-stats.vercel.app/api?username=julianebueno&theme=tokyonight&line_height=20&hide_border=true&show_icons=true&count_private=true"/>
+<img height="150em" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianebueno&theme=tokyonight&hide_border=true&layout=compact"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -14,6 +16,7 @@
   
 <!-- XD 
 &layout=compact
+&include_all_commits=true
 -->
 <br><br>
 Estou construindo meu Github ainda, aceito sugestões e dicas para melhorar<br>
