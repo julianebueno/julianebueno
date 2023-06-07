@@ -1,8 +1,8 @@
 ## Hello there
 
 <div>
-<a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=julianebueno&theme=transparent&bg_color=0002&include_all_commits=true&count_private=true&line_height=20&hide_border=true&show_icons=true"/></a>
-<a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianebueno&theme=transparent&bg_color=0002&include_all_commits=true&count_private=true&line_height=20&hide_border=true&layout=compact"/></a>
+<a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=julianebueno&theme=transparent&bg_color=0003&include_all_commits=true&count_private=true&line_height=20&hide_border=true&show_icons=true"/></a>
+<a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianebueno&theme=transparent&bg_color=0003&include_all_commits=true&count_private=true&line_height=20&hide_border=true&layout=compact"/></a>
 </div>
 
 <hr>
