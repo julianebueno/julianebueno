@@ -1,9 +1,9 @@
 ## Hello there 👋 
 
-<div style="display: inline_block">
-  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=julianebueno&theme=radical&bg_color=00000055&text_color=eeeeff&hide_border=true">
-  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianebueno&include_all_commits=true&theme=radical&bg_color=00000055&text_color=eeeeff&hide_border=true&layout=compact">
-</div>
+Sou estudante de ADS até 10/2024, estou a procura da minha vaga junior ou trainee 👶
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianebueno1/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianebueno1@gmail.com)
 
 ## Conhecimento em...
 <div style="display: inline_block">
@@ -36,7 +36,7 @@
 
 ##
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianebueno1@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianebueno1/)
-
-![stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjulianebueno1212%2Fhit-counter)
+<div style="display: inline_block">
+<!--   <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=julianebueno&theme=radical&bg_color=00000055&text_color=eeeeff&hide_border=true"> -->
+  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianebueno&include_all_commits=true&theme=radical&bg_color=00000055&text_color=eeeeff&hide_border=true&layout=compact">
+</div>
