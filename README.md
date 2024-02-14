@@ -1,11 +1,6 @@
 ## Hello there 👋 
 
-Sou estudante de ADS até 10/2024, estou a procura da minha vaga junior ou trainee 👶
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianebueno1/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianebueno1@gmail.com)
-
-## Conhecimento em...
+### Conhecimento em...
 <div style="display: inline_block">
   <a href="#"><img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"></a>
   <a href="#"><img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"></a>
@@ -21,7 +16,7 @@ Sou estudante de ADS até 10/2024, estou a procura da minha vaga junior ou train
   <a href="#"><img align="center" alt="figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>
 </div>
 
-## Estudando ainda...
+### Estudando ainda...
 <div style="display: inline_block">
   <a href="#"><img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg"></a>
   <a href="#"><img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></a>
@@ -38,5 +33,9 @@ Sou estudante de ADS até 10/2024, estou a procura da minha vaga junior ou train
 
 <div style="display: inline_block">
 <!--   <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=julianebueno&theme=radical&bg_color=00000055&text_color=eeeeff&hide_border=true"> -->
-  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianebueno&include_all_commits=true&theme=radical&bg_color=00000055&text_color=eeeeff&hide_border=true&layout=compact">
+  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianebueno&include_all_commits=true&theme=radical&bg_color=00000033&text_color=eeeeff&hide_border=true&layout=compact">
 </div>
+
+##
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianebueno1/)
