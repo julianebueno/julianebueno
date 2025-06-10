@@ -20,7 +20,20 @@
 💻 Interessada por **Front-end**, **Back-end** e tudo o que envolve desenvolvimento!  
 🔍 Em busca de novos aprendizados e desafios na área da tecnologia!
 
-<br>
+<p align="center">
+  <marquee>
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+  </marquee>
+</p>
 
 ## 💡 Conhecimentos
 
@@ -63,3 +76,18 @@
 <br>
 
 ✨ Obrigada por visitar! 🚀
+
+<p align="center">
+  <marquee>
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+    <img src="nyancat.gif" height="20px" />
+  </marquee>
+</p>
