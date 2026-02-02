@@ -61,13 +61,14 @@
 
 <br>
 
+<!--
 ## 📈 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianebueno&show_icons=true&theme=radical&hide_title=true&bg_color=00000033&text_color=eeeeff&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianebueno&include_all_commits=true&layout=compact&theme=radical&bg_color=00000033&text_color=eeeeff&hide_border=true" />
 </div>
-
+-->
 <br>
 
 <p align="center">
