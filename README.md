@@ -33,7 +33,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 
 - Fiz uns projetos pessoais usando JavaScript, com React no front-end e Node.js no Back-end/Api
 
@@ -42,16 +41,16 @@
 ## 🎓 Aprendi o básico
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- Tive contato breve com Python, IoT, Java, Android Studio, PHP, PowerBi, Docker, MySQL e MongoDB em projetos de cursos
+- Tive contato breve com Python, Java, PHP, Android Studio, PowerBi, IoT, Docker, MySQL e MongoDB em projetos de cursos
 
 <br>
 
@@ -59,7 +58,6 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![SAP](https://img.shields.io/badge/SAP%20-%230057D2.svg?style=for-the-badge&logo=sap&logoColor=white)
 
@@ -103,14 +101,14 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ](https://open.spotify.com/user/12144194155?si=7474111bcd5c46c4)
 
-- Gosto de jogos de estratégia com lógica simples, sem muito texto rs, sendo os meus favoritos:
+- Gosto de jogos de estratégia com lógica simples, sem muito texto rs, sendo ShapeZ o meu favorito atual
 
 <p>
   <marquee>
-    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1318690/header.jpg" height="100px" />
-    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/550/header.jpg" height="100px" />
-    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/header.jpg" height="100px" />
-    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105450/header.jpg" height="100px" />
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1318690/header.jpg" height="70px" />
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/550/header.jpg" height="70px" />
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/header.jpg" height="70px" />
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/105450/header.jpg" height="70px" />
   </marquee>
 </p>
 
